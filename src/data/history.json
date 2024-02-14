@@ -1,0 +1,17 @@
+[
+  {
+    "role": "B.S. Computer Science",
+    "organisation": "California State University - East Bay",
+    "startDate": "Aug, 2019",
+    "endDate": "Present",
+    "experiences": [
+      "Data Structures & Algorithms",
+      "Object Oriented Programming",
+      "Software Engineering",
+      "Operating Systems",
+      "Computer Networks",
+      "Database Architecture"
+    ],
+    "imageSrc": "history/csueb.png"
+  }
+]
