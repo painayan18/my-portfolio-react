@@ -1,6 +1,30 @@
 [
   {
-    "title": "Project A",
+    "title": "ShutterStream - Social Media App",
+    "imageSrc": "projects/shutterstream.jpg",
+    "description": "Social media app where users can share pictures with their followers.",
+    "skills": ["MongoDB", "Express", "React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Fresh Fridges - Fridge Management",
+    "imageSrc": "projects/fridge.jpg",
+    "description": "Users can create virtual fridges to keep track of food items.",
+    "skills": ["Python", "Django", "SQL", "AWS", "EC2"],
+    "demo": "https://github.com/adhikarisarthak/fridgemanagement",
+    "source": "https://github.com/adhikarisarthak/fridgemanagement"
+  },
+  {
+    "title": "YelpCamp - Campsite Reviews",
+    "imageSrc": "projects/yelpcamp.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "YelpCamp - Campsite Reviews",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
@@ -8,17 +32,9 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "AI Choose Your Own Adventure Game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Text-based adventure game where player chooses between AI generated outcomes.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
