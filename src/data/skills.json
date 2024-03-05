@@ -1,12 +1,21 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
   },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+
   {
     "title": "React",
     "imageSrc": "skills/react.png"
@@ -16,23 +25,23 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
-  },
-  {
-    "title": "C++",
-    "imageSrc": "skills/cpp.png"
-  },
-  {
-    "title": "SQL",
-    "imageSrc": "skills/sql.png"
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/django.png"
+    "title": "HTML5",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   }
 ]

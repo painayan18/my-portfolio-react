@@ -1,11 +1,11 @@
 [
   {
-    "title": "ShutterStream - Social Media App",
+    "title": "ShutterStream - Social Media",
     "imageSrc": "projects/shutterstream.jpg",
     "description": "Social media app where users can share pictures with their followers.",
-    "skills": ["MongoDB", "Express", "React", "Node"],
+    "skills": ["MongoDB", "Express.js", "React", "Node.js"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/painayan18/react-social-media-app"
   },
   {
     "title": "Fresh Fridges - Fridge Management",
@@ -17,26 +17,42 @@
   },
   {
     "title": "YelpCamp - Campsite Reviews",
-    "imageSrc": "projects/yelpcamp.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "imageSrc": "projects/campsite.png",
+    "description": "Website for camping enthusiasts to discover new camping adventures.",
+    "skills": ["MongoDB", "Express.js", "React", "Node.js"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/painayan18/yelpcamp"
   },
   {
-    "title": "YelpCamp - Campsite Reviews",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "AI Choose Your Own Adventure Game",
-    "imageSrc": "projects/project.png",
+    "title": "AI Adventure Game",
+    "imageSrc": "projects/aiadventure.jpg",
     "description": "Text-based adventure game where player chooses between AI generated outcomes.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["Python","OpenAI API","Cassandra"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/painayan18/choose-your-own-adventure-game"
+  },
+  {
+    "title": "AI Snake Master",
+    "imageSrc": "projects/snakegame.jpg",
+    "description": "An AI model that learns how to play the classic game 'Snake' through deep Q-learing.",
+    "skills": ["Python", "PyTorch", "PyGame", "Matplotlib"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/painayan18/Snake-Game-AI"
+  },
+  {
+    "title": "Chatbot",
+    "imageSrc": "projects/chatbot.jpg",
+    "description": "Text-based adventure game where player chooses between AI generated outcomes.",
+    "skills": ["Python","TensorFlow", "NLTK"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/painayan18/choose-your-own-adventure-game"
+  },
+  {
+    "title": "Blogster",
+    "imageSrc": "projects/blogster.jpg",
+    "description": "Blogging social media platform where users can create blogs and follow others'",
+    "skills": ["Python","Flask","SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/painayan18/choose-your-own-adventure-game"
   }
 ]
